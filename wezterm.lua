@@ -1,4 +1,7 @@
   colors = {
+    cursor_bg = '#eeeeee',
+    cursor_fg = '#282828',
+    cursor_border = '#eeeeee',
     foreground = '#eeeeee',
     background = '#282828',
     ansi = {
