@@ -1,12 +1,3 @@
-local wezterm = require 'wezterm';
-
-return {
-  automatically_reload_config = true,
-  use_ime = false,
-  enable_tab_bar = true,
-  font = wezterm.font("JetBrains Mono"),
-  font_size = 14,
-  exit_behavior = "Close",
   colors = {
     foreground = '#eeeeee',
     background = '#282828',
@@ -31,4 +22,3 @@ return {
     '#feffff',
     }
   }
-}
